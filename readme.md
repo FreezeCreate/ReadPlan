@@ -38,4 +38,12 @@
 		<td>Now</td>
 		<td><a href="https://book.douban.com/subject/1205054/" target="_blank">豆瓣</a></td>
     </tr>
+    <tr>
+        <td>3</td>
+		<td>Grit</td>
+		<td>安杰拉·达克沃思</rd>
+        <td>2018-06-09</td>
+		<td>Now</td>
+		<td><a href="https://book.douban.com/subject/27062574/" target="_blank">豆瓣</a></td>
+    </tr>
 </table>
