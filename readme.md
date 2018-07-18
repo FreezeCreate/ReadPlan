@@ -55,9 +55,18 @@
         <td>5</td>
 		<td>图解HTTP</td>
 		<td>技术</td>
-		<td>上野宣 </rd>
+		<td>上野宣</rd>
         <td>2018-07-10</td>
 		<td>Now</td>
 		<td><a href="https://book.douban.com/subject/25863515/" target="_blank">豆瓣</a></td>
+    </tr>
+    <tr>
+        <td>6</td>
+		<td>四书（大学）</td>
+		<td>历史</td>
+		<td>曾子</rd>
+        <td>2018-07-19</td>
+		<td>Now</td>
+		<td><a href="https://book.douban.com/subject/2037610/" target="_blank">豆瓣</a></td>
     </tr>
 </table>
