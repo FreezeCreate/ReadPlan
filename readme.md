@@ -48,7 +48,7 @@
 		<td>心理</td>
 		<td>安杰拉·达克沃思</rd>
         <td>2018-06-09</td>
-		<td>Now</td>
+		<td>2018-07-31</td>
 		<td><a href="https://book.douban.com/subject/27062574/" target="_blank">豆瓣</a></td>
     </tr>
     <tr>
@@ -68,5 +68,14 @@
         <td>2018-07-19</td>
 		<td>Now</td>
 		<td><a href="https://book.douban.com/subject/2037610/" target="_blank">豆瓣</a></td>
+    </tr>
+    <tr>
+        <td>6</td>
+		<td>西方历史编纂学史</td>
+		<td>历史</td>
+		<td>何平</rd>
+        <td>2018-08-01</td>
+		<td>Now</td>
+		<td><a href="https://book.douban.com/subject/3662333/" target="_blank">豆瓣</a></td>
     </tr>
 </table>
