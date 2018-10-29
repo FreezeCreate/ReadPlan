@@ -70,12 +70,21 @@
 		<td><a href="https://book.douban.com/subject/2037610/" target="_blank">豆瓣</a></td>
     </tr>
     <tr>
-        <td>6</td>
+        <td>7</td>
 		<td>西方历史编纂学史</td>
 		<td>历史</td>
 		<td>何平</rd>
         <td>2018-08-01</td>
 		<td>Now</td>
 		<td><a href="https://book.douban.com/subject/3662333/" target="_blank">豆瓣</a></td>
+    </tr>
+    <tr>
+        <td>8</td>
+		<td>西方哲学史</td>
+		<td></td>
+		<td></rd>
+        <td>2018-09-01</td>
+		<td>Now</td>
+		<td><a href="" target="_blank">豆瓣</a></td>
     </tr>
 </table>
