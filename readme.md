@@ -87,4 +87,22 @@
 		<td>Now</td>
 		<td><a href="" target="_blank">豆瓣</a></td>
     </tr>
+	<tr>
+        <td>9</td>
+		<td>人性论</td>
+		<td>哲学</td>
+		<td>大卫休谟</rd>
+        <td>2018-03-01</td>
+		<td>Now</td>
+		<td><a href="" target="_blank"></a></td>
+    </tr>
+	<tr>
+        <td>10</td>
+		<td>白痴</td>
+		<td>文学</td>
+		<td>陀思妥耶夫斯基</rd>
+        <td>2019-03-01</td>
+		<td>Now</td>
+		<td><a href="" target="_blank"></a></td>
+    </tr>
 </table>
