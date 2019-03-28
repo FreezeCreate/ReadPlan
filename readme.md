@@ -19,7 +19,7 @@
         <td>1</td>
 		<td>美国国会</td>
 		<td>政治</td>
-		<td>Many</rd>
+		<td></rd>
         <td>2018-05-09</td>
 		<td>2018-07-20</td>
 		<td><a href="https://book.douban.com/subject/26846919/" target="_blank">豆瓣</a></td>
