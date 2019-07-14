@@ -117,4 +117,14 @@
     <td>2019-04-06</td>
     <td><a href="https://book.douban.com/subject/1012032/" target="_blank">豆瓣</a></td>
 </tr>
+            
+<tr>
+    <td>12</td>
+    <td>乌合之众</td>
+    <td>心理学</td>
+    <td>古斯塔夫·勒庞</td>
+    <td>2019-07-13</td>
+    <td>0000-00-00</td>
+    <td><a href="https://book.douban.com/subject/26675771/" target="_blank">豆瓣</a></td>
+</tr>
             </table>
