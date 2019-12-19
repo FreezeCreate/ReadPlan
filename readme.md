@@ -131,7 +131,7 @@
     <td>13</td>
     <td>老人与海</td>
     <td>小说</td>
-    <td></td>
+    <td>[美] 欧内斯特·海明威</td>
     <td>2019-11-00</td>
     <td>0000-00-00</td>
     <td><a href="https://book.douban.com/subject/1064275/" target="_blank">豆瓣</a></td>
@@ -149,7 +149,7 @@
     <td>15</td>
     <td>挪威的森林</td>
     <td>小说</td>
-    <td></td>
+    <td>[日] 村上春树</td>
     <td>2019-10-00</td>
     <td>0000-00-00</td>
     <td><a href="https://book.douban.com/subject/1046265/" target="_blank">豆瓣</a></td>
