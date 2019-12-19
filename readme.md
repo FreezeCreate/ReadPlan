@@ -134,7 +134,7 @@
     <td></td>
     <td>2019-11-00</td>
     <td>0000-00-00</td>
-    <td><a href="#" target="_blank">豆瓣</a></td>
+    <td><a href="https://book.douban.com/subject/1064275/" target="_blank">豆瓣</a></td>
 </tr>
 <tr>
     <td>14</td>
@@ -152,6 +152,6 @@
     <td></td>
     <td>2019-10-00</td>
     <td>0000-00-00</td>
-    <td><a href="#" target="_blank">豆瓣</a></td>
+    <td><a href="https://book.douban.com/subject/1046265/" target="_blank">豆瓣</a></td>
 </tr>
             </table>
